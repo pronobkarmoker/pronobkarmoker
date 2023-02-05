@@ -1,8 +1,9 @@
 ![            Studies major in Software Engineering at IIT, University of Dhaka](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/314752507_1488263558346988_1802142373947930985_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=2x8dJ25TpBEAX-jGqsP&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfAw3za3vIunVyaWAgGrcsC2pX5GRr2auT6srOlGGF1e7w&oe=63E3B632)
 
 
-### Hi there 👋, I am Pronob Karmoker
-#####             Studies major in Software Engineering at IIT, University of Dhaka
+
+## Hi there👋, I am Pronob Karmoker
+####             Studies major in Software Engineering at IIT, University of Dhaka
 
 
 
@@ -12,7 +13,9 @@ Skills: C/ Python / HTML
 - 👯 I’m looking to collaborate on GitHub 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pronobkarmoker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pronob-karmoker-2a14b5247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/suvo.suvokarmoker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_shuvo_karmakar/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pronobkarmoker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pronob-karmoker-2a14b5247/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/suvo.suvokarmoker)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_shuvo_karmakar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/pronob5529)  
+
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pronobkarmoker)](https://github.com/ryo-ma/github-profile-trophy)
 
