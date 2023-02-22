@@ -1,4 +1,4 @@
-![            Studies major in Software Engineering at IIT, University of Dhaka](https://z-p3-scontent.fdac12-1.fna.fbcdn.net/v/t39.30808-6/314752507_1488263558346988_1802142373947930985_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=2x8dJ25TpBEAX-jGqsP&_nc_ht=z-p3-scontent.fdac12-1.fna&oh=00_AfAw3za3vIunVyaWAgGrcsC2pX5GRr2auT6srOlGGF1e7w&oe=63E3B632)
+![Studies major in Software Engineering at IIT, University of Dhaka](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/314752507_1488263558346988_1802142373947930985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFsUKNBcdCBVKS20shJc26wKYpZYSDeQfQpillhIN5B9P53CmKRrsOFOjgCdWexNgTCQy3BF9oHyCMN6urGGL9h&_nc_ohc=oaS8wLcbGfMAX_5N7nc&_nc_ht=scontent.fdac155-1.fna&oh=00_AfASRcb3esFupD_1xKUXEKB_nS_8qNowlce_DrddjUy-dQ&oe=63FB7132)
 
 
 
