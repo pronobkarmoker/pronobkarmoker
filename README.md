@@ -1,4 +1,4 @@
-![Studies major in Software Engineering at IIT, University of Dhaka][(https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/314752507_1488263558346988_1802142373947930985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFsUKNBcdCBVKS20shJc26wKYpZYSDeQfQpillhIN5B9P53CmKRrsOFOjgCdWexNgTCQy3BF9oHyCMN6urGGL9h&_nc_ohc=oaS8wLcbGfMAX_5N7nc&_nc_ht=scontent.fdac155-1.fna&oh=00_AfASRcb3esFupD_1xKUXEKB_nS_8qNowlce_DrddjUy-dQ&oe=63FB7132)]
+![Studies major in Software Engineering at IIT, University of Dhaka][https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/314752507_1488263558346988_1802142373947930985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFsUKNBcdCBVKS20shJc26wKYpZYSDeQfQpillhIN5B9P53CmKRrsOFOjgCdWexNgTCQy3BF9oHyCMN6urGGL9h&_nc_ohc=EeezVqMViCUAX809UTm&_nc_ht=scontent.fdac155-1.fna&oh=00_AfCi8tfK9R-obXPQKkmSYB0OAhCmw7Uualf8moZxIaQyBQ&oe=64191AF2]
 
 
 ## Hi there👋, I am Pronob Karmoker
