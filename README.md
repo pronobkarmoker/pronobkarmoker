@@ -1,4 +1,6 @@
 ![Studies major in Software Engineering at IIT, University of Dhaka](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/314752507_1488263558346988_1802142373947930985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFsUKNBcdCBVKS20shJc26wKYpZYSDeQfQpillhIN5B9P53CmKRrsOFOjgCdWexNgTCQy3BF9oHyCMN6urGGL9h&_nc_ohc=16GgaqSpQa0AX8PgAMg&_nc_ht=scontent.fdac24-1.fna&oh=00_AfBfuG7C-4V4_ZB4uHn4TJFFsM4HiT48kIg5LfAE-BfSWA&oe=6442A232)
+![image](https://user-images.githubusercontent.com/124451978/234959775-74756929-dc22-4656-957e-078848d7b987.png)
+
 
 <h1 align="center">Hi 👋, I'm Pronob Karmoker</h1>
 <h3 align="center">studies major in software engineering at IIT, University of Dhaka</h3>
