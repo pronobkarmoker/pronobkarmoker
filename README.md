@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pronob Karmoker</h1>
-<h3 align="center">studies major in software engineering at IIT, University of Dhaka</h3>
+<h3 align="center">Studies Software Engineering at IIT, University of Dhaka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronobkarmoker&label=Profile%20views&color=0e75b6&style=flat" alt="pronobkarmoker" /> </p>
 
