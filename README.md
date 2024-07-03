@@ -1,14 +1,19 @@
-![](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/314752507_1488263558346988_1802142373947930985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFsUKNBcdCBVKS20shJc26wKYpZYSDeQfQpillhIN5B9P53CmKRrsOFOjgCdWexNgTCQy3BF9oHyCMN6urGGL9h&_nc_ohc=-5DBwvA1U1oAX-fHc8n&_nc_ht=scontent.fdac20-1.fna&oh=00_AfBAbXb-yO8hMMAX3ZSfjENioN2xL5c3tQ4cKIGv0jjVoA&oe=64760CB2)
-
 <h1 align="center">Hi 👋, I'm Pronob Karmoker</h1>
 <h3 align="center">Studies Software Engineering at IIT, University of Dhaka</h3>
+
+![](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/410227507_1737524386754236_7311399618081329592_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFtpKnP-VKhPDu4FYBowm2KgiAR9LLHD4eCIBH0sscPhxIFbNPG3VFUle3UaJ9CeY2UWIM3t-zgY8STlJkp-UCX&_nc_ohc=XFt1YaEBWGwQ7kNvgHyFw7V&_nc_ht=scontent.fdac24-2.fna&oh=00_AYBrBCkFoCKlG_pKu8KEMu0cOWI2Q7n2FpEGYXM_7PAN0w&oe=668B6655)
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pronobkarmoker&label=Profile%20views&color=0e75b6&style=flat" alt="pronobkarmoker" /> </p>
 
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Skill: **C / C++ / Python / HTML /JAVA**
+- 💬 Skill: **C / C++ / JAVA / Python / HTML /CSS / JavaScript**
 
 - 📫 How to reach me **bsse1431@iit.du.ac.bd**
 
